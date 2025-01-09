@@ -75,9 +75,9 @@
     } else {
         echo "<p>Invalid username or password.</p>";
     }
-    ?>
+    ?> 
 
-    <!-- Question 7: File Handling -->
+    <!--This is added by new for commit Question 7: File Handling -->
     <h2>7. File Handling: Write and Read</h2>
     <?php
     $file_content = "This is a sample text."; // Default content
